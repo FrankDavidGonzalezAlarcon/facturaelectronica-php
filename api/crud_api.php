@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: https://wonderful-dune-0523bbb0f.1.azurestaticapps.net/");
+header("Access-Control-Allow-Origin: https://wonderful-dune-0523bbb0f.1.azurestaticapps.net");
 header("Content-Type: application/json; charset=UTF-8");
 header("Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS");
 header("Access-Control-Allow-Headers: Content-Type, Access-Control-Allow-Headers, X-Requested-With, X-HTTP-Method-Override");
