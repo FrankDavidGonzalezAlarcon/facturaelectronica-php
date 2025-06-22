@@ -1,5 +1,5 @@
 <?php
-header("Access-Control-Allow-Origin: http://localhost:3000"); // Permite peticiones desde React
+header("Access-Control-Allow-Origin: https://wonderful-dune-0523bbb0f.1.azurestaticapps.net/"); // Permite peticiones desde React
 header("Content-Type: application/json");
 header("Access-Control-Allow-Methods: POST");
 header("Access-Control-Max-Age: 3600");
